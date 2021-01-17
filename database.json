@@ -1,0 +1,51 @@
+{
+  "antiraidK_789472319877021717": "793026004842315777",
+  "caps.794553503175409695": true,
+  "caps.794179226278166529": true,
+  "küfür.794179226278166529": true,
+  "sayaç.kanal.794179226278166529": "794194902698557460",
+  "sayaç.sayı.794179226278166529": "100",
+  "otocevap_794553503175409695": "açık",
+  "kufur_794553503175409695": "Açık",
+  "küfür.794553503175409695": true,
+  "caps.771116011298619393": true,
+  "küfür.769650860665733154": true,
+  "spam.769650860665733154": "codare",
+  "uyarsunucu_794553503175409695": {
+    "type": "text",
+    "deleted": false,
+    "id": "794553571559342121",
+    "name": "・moderator・only",
+    "rawPosition": 1,
+    "parentID": null,
+    "permissionOverwrites": [
+      "794553503175409695"
+    ],
+    "topic": null,
+    "nsfw": false,
+    "lastMessageID": "795043978880876596",
+    "rateLimitPerUser": 0,
+    "lastPinTimestamp": null,
+    "guild": "794553503175409695",
+    "messages": [],
+    "createdTimestamp": 1609506733551
+  },
+  "uyarsunucu_795303393076707348": {
+    "type": "text",
+    "deleted": false,
+    "id": "795303562216472587",
+    "name": "・bot・test",
+    "rawPosition": 2,
+    "parentID": "795303393076707350",
+    "permissionOverwrites": [],
+    "topic": null,
+    "nsfw": false,
+    "lastMessageID": null,
+    "rateLimitPerUser": 0,
+    "lastPinTimestamp": null,
+    "guild": "795303393076707348",
+    "messages": [],
+    "createdTimestamp": 1609685545258
+  },
+  "uyarı.760421959556792320795303393076707348": 1
+}
