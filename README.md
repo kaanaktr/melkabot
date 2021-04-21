@@ -11,7 +11,7 @@
 
 ⚒️ [**Ghost Development**](https://discord.gg/KMJCshWX4D)
 
-Made by : **[ArchexMelih](https://youtube.com/c/arcehexmelih)
-         **[ArchexKaan](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)  
+**🔧 Made by** : [ArchexMelih](https://youtube.com/c/arcehexmelih)
+         [ArchexKaan](https://www.youtube.com/channel/UC9HFT7vVnIgf_w9kr41OIuA)  
              
  **💡 SSS** : https://discord.gg/qDsQzjb5gN      
